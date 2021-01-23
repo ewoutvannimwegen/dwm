@@ -1,8 +1,0 @@
-.gitignore
-*.orig
-*.rej
-util.o
-patches
-dwm
-dwm.o
-drw.o
